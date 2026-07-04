@@ -25,6 +25,12 @@ Then I performed exploratory data analysis to understand different parts of the 
 * Seaborn
 * Jupyter Notebook
 
+##  Dataset
+
+- Source: Kaggle
+- Records: 5,000
+- Features: 14
+
 ## Analysis Performed
 
 * Data Cleaning
